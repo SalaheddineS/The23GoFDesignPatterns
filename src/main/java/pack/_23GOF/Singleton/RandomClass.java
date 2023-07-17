@@ -2,7 +2,7 @@ package pack._23GOF.Singleton;
 
 public class RandomClass {
     private RandomClass() {}
-    // Eagar initialization
+    // Eager initialization
     private static final RandomClass instance = new RandomClass();
     public static RandomClass getInstance() {
         System.out.println("Eagar initialization");

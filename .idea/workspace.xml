@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3c20a6f-3581-4479-8300-d5f4ef19f508" name="Changes" comment="finished Builder design Pattern">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Prototype/RandomClass.java" afterDir="false" />
+    <list default="true" id="f3c20a6f-3581-4479-8300-d5f4ef19f508" name="Changes" comment="Changed package Name">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pack/_23GOF/Adapter/AdapterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pack/_23GOF/Adapter/ClassToAdaptTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pack/_23GOF/Adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pack/_23GOF/Adapter/RandomClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pack/_23GOF/Adapter/RandomInterface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pack/_23GOF/Adapter/RandomInterface2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Builder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Builder/randomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Builder/RandomClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Builder/randomClassBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Builder/RandomClassBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Factory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Factory/childClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Factory/ChildClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Factory/childClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Factory/ChildClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Factory/factoryClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Factory/FactoryClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Factory/randomMotherClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Factory/RandomMotherClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Singleton/randomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton/RandomClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pack/_23GOF/Singleton/RandomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pack/_23GOF/Singleton/RandomClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689588278846</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="finished Prototype design Pattern + fixed ClassName convention">
+      <created>1689589693782</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689589693782</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed package Name">
+      <created>1689589868506</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689589868506</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +124,8 @@
     <MESSAGE value="finished Factory design Pattern" />
     <MESSAGE value="finished Abstract Factory design Pattern" />
     <MESSAGE value="finished Builder design Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished Builder design Pattern" />
+    <MESSAGE value="finished Prototype design Pattern + fixed ClassName convention" />
+    <MESSAGE value="Changed package Name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed package Name" />
   </component>
 </project>
