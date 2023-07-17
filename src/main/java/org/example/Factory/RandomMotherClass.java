@@ -1,6 +1,6 @@
 package org.example.Factory;
 
-public abstract class randomMotherClass {
+public abstract class RandomMotherClass {
     public abstract String getAttribute1();
     public abstract String getAttribute2();
     public abstract String getAttribute3();

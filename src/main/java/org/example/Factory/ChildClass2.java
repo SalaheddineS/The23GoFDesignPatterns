@@ -1,11 +1,11 @@
 package org.example.Factory;
 
-public class childClass2 extends  randomMotherClass{
+public class ChildClass2 extends RandomMotherClass {
     private String attribute1;
     private String attribute2;
     private String attribute3;
 
-    public childClass2(){
+    public ChildClass2(){
         System.out.println("created child class2");
     }
     @Override

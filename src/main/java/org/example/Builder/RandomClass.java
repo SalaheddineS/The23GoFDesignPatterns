@@ -1,10 +1,10 @@
 package org.example.Builder;
 
-public class randomClass {
+public class RandomClass {
     private String firstAttribute;
     private String secondAttribute;
 
-    public randomClass(randomClassBuilder builder) {
+    public RandomClass(RandomClassBuilder builder) {
         this.firstAttribute = builder.getFirstAttribute();
         this.secondAttribute = builder.getSecondAttribute();
     }

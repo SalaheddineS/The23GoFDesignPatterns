@@ -3,7 +3,7 @@ package org.example.Factory;
 public class Main {
     public static void main(String args[])
     {
-        factoryClass.create("childClass2");
-        factoryClass.create("childClass1");
+        FactoryClass.create("ChildClass2");
+        FactoryClass.create("ChildClass1");
     }
 }
