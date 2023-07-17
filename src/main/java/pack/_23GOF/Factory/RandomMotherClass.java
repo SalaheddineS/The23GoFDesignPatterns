@@ -1,4 +1,4 @@
-package org.example.Factory;
+package pack._23GOF.Factory;
 
 public abstract class RandomMotherClass {
     public abstract String getAttribute1();

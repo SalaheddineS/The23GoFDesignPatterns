@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package pack._23GOF.Singleton;
 
 public class RandomClass {
     private RandomClass() {}

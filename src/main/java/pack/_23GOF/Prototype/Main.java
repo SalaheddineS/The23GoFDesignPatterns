@@ -1,4 +1,4 @@
-package org.example.Prototype;
+package pack._23GOF.Prototype;
 
 public class Main {
 

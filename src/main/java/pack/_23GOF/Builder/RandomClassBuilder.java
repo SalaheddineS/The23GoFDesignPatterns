@@ -1,4 +1,4 @@
-package org.example.Builder;
+package pack._23GOF.Builder;
 
 public class RandomClassBuilder {
     private String firstAttribute;

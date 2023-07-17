@@ -1,4 +1,4 @@
-package org.example.AbstractFactory;
+package pack._23GOF.AbstractFactory;
 
 public class Main {
     public static void main(String args[])
